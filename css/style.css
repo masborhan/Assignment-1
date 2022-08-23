@@ -2,10 +2,10 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 section{
-
+display: flex;
 }
 .top-banner{
-    background-image: url(images/);
+background-image: url();
 text-align: center;
 }
 .link-button{
